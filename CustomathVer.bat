@@ -1,1 +1,1 @@
-set latestversion=6
+set latestversion=8
